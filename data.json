@@ -1,0 +1,21 @@
+{
+  "loans": {
+    "bd7564d0-c562-40f0-87b9-dfc4a375adb5": {
+      "customer_id": "cust123",
+      "principal": 10000,
+      "years": 2,
+      "rate": 10,
+      "interest": 2000,
+      "total_amount": 12000,
+      "emi": 500,
+      "transactions": [
+        {
+          "amount": 1500,
+          "type": "payment",
+          "timestamp": "2025-07-25T23:16:53.320293"
+        }
+      ],
+      "amount_paid": 1500
+    }
+  }
+}

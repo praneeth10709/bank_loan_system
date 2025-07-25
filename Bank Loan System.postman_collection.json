@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "4739509b-40c1-401a-839a-23e79655fcb4",
+		"name": "Bank Loan System",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46750432",
+		"_collection_link": "https://cloudy-moon-5448874.postman.co/workspace/d7577bde-a76f-45d8-8b3b-58fd288506d0/collection/46750432-4739509b-40c1-401a-839a-23e79655fcb4?action=share&source=collection_link&creator=46750432"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
